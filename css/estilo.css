@@ -14,7 +14,17 @@ body{
     color: rgb(161, 81, 81);
     /* define o alinhamento padrao dos texto  */
     text-align: center;
-    
+}
+
+.container {
+    /* define a largura minima  */
+    min-width: 400px;
+    /* define a largurar maxima  */
+    max-width: 1400px;
+    /* define uma cor de fundo */
+    background-color: bisque;
+    /* centraliza container  */
+    margin: 0% auto;
 
 
 }
