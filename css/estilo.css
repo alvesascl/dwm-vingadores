@@ -1,0 +1,20 @@
+/* selecionar todo os elementos so html  */
+*{
+    /* zerar os espaçamentos dos elemtos  */
+    margin: 0%;
+    padding: 0%;
+    /* considera a bordar largurar e altura */
+    box-sizing: border-box;
+}
+
+body{
+    /* define uma familia padrão de fontes  */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: rgb(161, 81, 81);
+    /* define o alinhamento padrao dos texto  */
+    text-align: center;
+    
+
+
+}
